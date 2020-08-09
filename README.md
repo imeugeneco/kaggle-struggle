@@ -1,5 +1,5 @@
 # Kaggle Struggle
-Repository dedicated to all personal Kaggle projects
+Repository dedicated to all personal Kaggle projects and related discoveries
 
 | Date          | Project         | What I did                                                           | Links        |
 |---------------|-----------------|----------------------------------------------------------------------|--------------|
