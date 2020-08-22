@@ -11,4 +11,5 @@ Repository dedicated to all personal Kaggle projects and related discoveries
 | | Data Visualization | Experimented with Seaborn distplots | [Seaborn Distplot](https://github.com/imeugeneco/seaborn/blob/master/seaborn-distplot.ipynb) |
 | Aug 11, 2020 | Data Visualization | Practiced data visualization with Seaborn boxplots | [Seaborn Boxplot](https://github.com/imeugeneco/seaborn/blob/master/seaborn-boxplot.ipynb) |
 | Aug 14, 2020 | Data Visualization | Practiced data visualization with Seaborn lmplots | [Seaborn Lmplot](https://github.com/imeugeneco/seaborn/blob/master/seaborn-lmplot.ipynb) |
-| Aug 15, 2020 | Kaggle Competition | Started working on Kaggle's [SF Crime Classification competition](https://www.kaggle.com/c/sf-crime) | [Crime Analysis](https://github.com/imeugeneco/kaggle-struggle/blob/master/sf-crime/understandingData.ipynb)
+| Aug 15, 2020 | Kaggle Competition | Started working on Kaggle's [SF Crime Classification competition](https://www.kaggle.com/c/sf-crime) | [Crime Analysis](https://github.com/imeugeneco/kaggle-struggle/blob/master/sf-crime/understandingData.ipynb) |
+| Aug 22, 2020 | Kaggle Course | Finished Kaggle's Data Visualization micro course | [Data Visualization](https://github.com/imeugeneco/kaggle-struggle/blob/master/%40kaggle-courses/Data-Visualization.ipynb) |
